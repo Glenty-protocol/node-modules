@@ -1,8 +1,10 @@
 # node-modules
 
-@pancakeswap for frontend only
+@pancakeswap-main for frontend only
 
-@pancakeswap-libs for trade-ui and gigapool ui
+@pancakeswap-libs-trade for trade-ui 
+
+@pancakeswap-libs-giga for giga-ui 
 
 ### Tokens
 
